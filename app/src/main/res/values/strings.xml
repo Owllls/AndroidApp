@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Myowllschef</string>
+    <string name="namesforfields">Хуй</string>
+    <string name="textonbutton1">button</string>
+    <string name="red">red </string>
+    <string name="yellow">yellow</string>
+    <string name="green">green</string>
+    <string name="option1">Найти рецепты к ингридиентам...</string>
+    <string name="option2">Найди ингридиенты к рецепту...</string>
+    <string name="vvodingridientov">Введите имеющиеся у вас ингридиенты в окно ниже, после каждого продукта нажимайте стрелку </string>
+    <string name="vvodingridenrovpro">Введите название продуктa </string>
+    <string name="vvodweight"> Ввести вес </string>
+</resources>
